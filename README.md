@@ -1,7 +1,7 @@
  Task 1
-# 📊 Sales Data Analysis 
+#  Sales Data Analysis 
 
-## 📌 Objective
+##  Objective
 
 This project analyzes business sales data to uncover key insights related to:
 
@@ -14,7 +14,7 @@ The goal is to support **data-driven business decision-making**.
 
 ---
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 
 * Python
 * Pandas
@@ -22,7 +22,7 @@ The goal is to support **data-driven business decision-making**.
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 The Superstore dataset includes:
 
@@ -35,7 +35,7 @@ Dataset is included in this repository for reproducibility.
 
 ---
 
-## 📊 Key Performance Indicators (KPIs)
+##  Key Performance Indicators (KPIs)
 
 * **Total Sales:** Calculated from dataset
 * **Total Profit:** Calculated from dataset
@@ -43,7 +43,7 @@ Dataset is included in this repository for reproducibility.
 
 ---
 
-## 📈 Analysis & Visualizations
+##  Analysis & Visualizations
 
 ### 🔹 1. Monthly Sales Trend
 
@@ -80,7 +80,7 @@ While some categories generate high sales, their profit contribution is not prop
 “The West region is the top-performing region in terms of sales, whereas the South region shows the lowest performance, indicating a need for targeted strategies to improve revenue in that area.”
 ---
 
-## ⚠️ Additional Insights
+##  Additional Insights
 
 * A number of transactions result in **negative profit**, indicating discounting or high operational costs
 * High sales do not always translate to high profitability
@@ -88,7 +88,7 @@ While some categories generate high sales, their profit contribution is not prop
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 * Focus on **high-margin products and categories** to improve profitability
 * Reduce excessive discounts on **loss-making products**
@@ -97,7 +97,7 @@ While some categories generate high sales, their profit contribution is not prop
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 1. Clone the repository
 2. Ensure dataset is inside the `data/` folder
@@ -111,7 +111,7 @@ python analysis.py
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 This analysis highlights how data can be used to identify trends, optimize performance, and drive strategic decisions. By focusing on profitability and regional performance, businesses can significantly improve overall outcomes.
 
